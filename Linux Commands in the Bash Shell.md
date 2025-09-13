@@ -32,7 +32,7 @@
 
 **1. grep:** Searches a specified file and returns all lines in the file containing a specified string.
 
-**2. |** (Piping)**:** Sends the Standard output of one command as standard input to another command for further processing.
+**2. |:** (Piping) Sends the Standard output of one command as standard input to another command for further processing.
 
 **3. Find:** 
 
