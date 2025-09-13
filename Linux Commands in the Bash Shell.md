@@ -8,11 +8,11 @@
 
 **Key Commands for Navigating the File System**
 
-1. pwd
+**1. pwd:** (Print Working Directory) Used to view the current working directory.
 
-2. ls
+**2. ls:** (Listing) Used to check which are folder and files in current Directory.
 
-3. cd
+**3. cd:** (Change Directory) Used to change, move or go to parent directories. 
 
 ###############################################################################
 
