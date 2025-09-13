@@ -36,8 +36,11 @@
 
 
 **Input and Ouput in the Shell**
+
 **1. Standard Input:** Information received by the Operating System via the Command-Line.
+
 **2. Standard Ouput:** Information returned by the Operating System via the Command-Line
+
 **3. Standard Error:** Error messages returned by Operating System through Shell. 
 
 
