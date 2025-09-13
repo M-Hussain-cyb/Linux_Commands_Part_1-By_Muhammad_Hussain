@@ -1,8 +1,8 @@
 **Basic Intro Commands**
 
-1. echo:
+**1. echo:** Output prints any text on terminal.
 
-2. whoami:
+**2. whoami:** Used to know the which is current user
 
 ###############################################################################
 
