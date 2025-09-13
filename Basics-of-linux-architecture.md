@@ -6,9 +6,10 @@
 5. Kernel
 6. Hardware
 7. Commands
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-1. User: The person interacting with a computer.
-2. Application
+**1. User:** The person interacting with a computer.
+2. Application: 
 3. Shell
 4. FileSystem Hierarchy Standard (FHS)
 5. Kernel
