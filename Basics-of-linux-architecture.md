@@ -6,6 +6,7 @@
 5. Kernel
 6. Hardware
 7. Commands
+   
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 **1. User:** The person interacting with a computer.
