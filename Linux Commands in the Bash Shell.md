@@ -34,27 +34,27 @@
 
 **2. |** (Piping)**:** Sends the Standard output of one command as standard input to another command for further processing.
 
-3. Find: 
+**3. Find:** 
 
 ###############################################################################
 
 **Create and Modify Directories and Files**
 
-1. mkdir:
+**1. mkdir:** Create a New Directory.
 
-2. rmdir:
+**2. rmdir:** Removes, or Delete a Directory.
 
-3. touch:
+**3. touch:** Create a just New File. 
 
-4. nano:
+**4. nano:** Create a New File and then Open it in terminal (as a text editor). 
 
-5. mousepad:
+**5. mousepad:** Create a New File and then open it in Mousepad Application that File.
 
-6. rm:
+**6. rm:** Removes, or Delete a File.
 
-7. mv:
+**7. mv:** Moves a File or Directory to a new Location.
 
-8. cp: 
+**8. cp:** Compies a File or Directory to a new Location.
 
 
 
