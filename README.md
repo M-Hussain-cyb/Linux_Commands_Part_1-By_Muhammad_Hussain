@@ -1,6 +1,8 @@
 # Linux-Commands-Part-1---By-Muhammad-Hussain
 
-**Linux Architecture** [Basics-of-linux-architecture](https://github.com/M-Hussain-cyb/Linux_Commands_Part_1-By_Muhammad_Hussain/blob/main/Basics-of-linux-architecture.md)
+[Basics-of-linux-architecture](https://github.com/M-Hussain-cyb/Linux_Commands_Part_1-By_Muhammad_Hussain/blob/main/Basics-of-linux-architecture.md)
+
+**Linux Architecture** 
 
 1. User
 2. Application
@@ -16,6 +18,8 @@
 2. Standard Ouput
 3. Standard Error
 
+
+[Linux Commands in the Bash Shell](https://github.com/M-Hussain-cyb/Linux_Commands_Part_1-By_Muhammad_Hussain/blob/main/Linux%20Commands%20in%20the%20Bash%20Shell.md)
 
 **Basic Intro Commands**
 
