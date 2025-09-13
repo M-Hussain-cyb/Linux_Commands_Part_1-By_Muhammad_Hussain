@@ -6,8 +6,10 @@
 5. Kernel
 6. Hardware
 7. Commands
+
    
 ###############################################################################
+
 
 **1. User:** The person interacting with a computer.
 
@@ -23,13 +25,20 @@
 
 **7. Commands:** An instruction telling the computer to do something.
 
+
 ###############################################################################
 
+
 **Shell** helps human and computers communicate with each other. It is the Command-line interpreter and helps human to communicate with the Operating System through the command-line.
+
    
 ###############################################################################
 
 
+Input and Ouput in the Shell
+1. Standard Input: 
+2. Standard Ouput:
+3. Standard Error:  
 
 
 
