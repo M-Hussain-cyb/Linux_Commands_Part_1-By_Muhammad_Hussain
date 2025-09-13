@@ -18,15 +18,13 @@
 
 **Commmon Commands for Reading File Content**
 
-1. cat:
+**1. cat:** (Concatenate) Used to Print/Display the content in file on terminal.
 
-2. head:
+**2. head:** Prints/Display Just first 10 Lines content on terminal.
 
-3. tail
+**3. tail:** Opposite of head command, it Prints/Display Just last 10 Lines content on terminal.
 
-4. less
-
-5. more
+**4. less/more:** used to move.
 
 ###############################################################################
 
