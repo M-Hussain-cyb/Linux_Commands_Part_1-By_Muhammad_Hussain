@@ -1,6 +1,6 @@
 # Linux-Commands-Part-1---By-Muhammad-Hussain
 
-**Linux Architecture**
+**Linux Architecture** [Basics-of-linux-architecture.md](https://github.com/M-Hussain-cyb/Linux_Commands_Part_1-By_Muhammad_Hussain/blob/main/Basics-of-linux-architecture.md)
 
 1. User
 2. Application
