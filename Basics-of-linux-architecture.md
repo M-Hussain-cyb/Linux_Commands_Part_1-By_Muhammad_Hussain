@@ -25,7 +25,12 @@
 
 ###############################################################################
 
-Shell helps human and computers communicate with each other. It is the Command-line interpreter and helps human to communicate with the Operating System through the command-line.
+**Shell** helps human and computers communicate with each other. It is the Command-line interpreter and helps human to communicate with the Operating System through the command-line.
+   
+###############################################################################
+
+
+
 
 
 
