@@ -1,4 +1,4 @@
-# Linux-Commands-Part-1---By-Muhammad-Hussain
+# Linux Commands Part-1 By Muhammad Hussain
 
 [Basics-of-linux-architecture](https://github.com/M-Hussain-cyb/Linux_Commands_Part_1-By_Muhammad_Hussain/blob/main/Basics-of-linux-architecture.md)
 
